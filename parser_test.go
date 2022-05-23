@@ -85,6 +85,11 @@ func TestInvalidRlp(t *testing.T) {
 		"8100",
 		"8101",
 		"817F",
+		"f97F",
+		"f97F11",
+		"fa7F11",
+		"ff11121314151617",
+		"ff1112131415161718",
 	}
 
 	p := &Parser{}
