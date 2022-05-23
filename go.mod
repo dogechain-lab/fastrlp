@@ -1,4 +1,4 @@
-module github.com/umbracle/fastrlp
+module github.com/dogechain-lab/fastrlp
 
 go 1.12
 
